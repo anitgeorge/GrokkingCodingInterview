@@ -21,7 +21,7 @@ class CharacterReplacement {
 
         for(; end < str.length(); end++){
 
-            arr[str.charAt[end] - 'a']++;
+            arr[str.charAt(end) - 'a']++;
             maxCount = Math.max(maxCount, arr[str.charAt(end) - 'a']);
             if(end - start + 1 -maxCount > k)
                 arr[str.charAt(start++) - 'a']--;
