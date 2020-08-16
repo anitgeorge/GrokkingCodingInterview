@@ -6,7 +6,7 @@
  */
 
 import java.util.*;
-
+//https://leetcode.com/problems/permutation-in-string/
 class StringPermutation {
     public static boolean findPermutation(String str, String pattern) {
         if(str.isEmpty() || pattern.isEmpty() || str.length() < pattern.length())
