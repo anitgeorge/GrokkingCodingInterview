@@ -20,3 +20,12 @@ Given a string and a pattern, find all anagrams of the pattern in the given stri
 Given a string and a pattern, find the smallest substring in the given string which has all the characters of the given pattern.
 
 WordConcatenation
+
+#Two Pointers
+-------------
+
+PairWithTargetSum
+
+Remove Duplicates
+
+Sorted Array Squares
