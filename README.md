@@ -29,3 +29,9 @@ PairWithTargetSum
 Remove Duplicates
 
 Sorted Array Squares
+
+Triplet Sum
+
+Triplet Sum closest
+
+Triplet With lesser sum
