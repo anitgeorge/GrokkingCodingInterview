@@ -39,3 +39,14 @@ Triplet With lesser sum
 4 sum
 
 Backspace String compare
+
+#Slow And Fast Pointers
+------------------------
+
+Loop in a List
+
+Start of a Loop in a List
+
+Happy Number
+
+Middle of a List
