@@ -50,3 +50,7 @@ Start of a Loop in a List
 Happy Number
 
 Middle of a List
+
+Pallindromic Linked List
+
+Rearrange List
