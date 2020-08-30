@@ -54,3 +54,20 @@ Middle of a List
 Pallindromic Linked List
 
 Rearrange List
+
+#Intervals
+
+Insert Intervals as Array
+
+Insert Intervals as List and POJO
+
+Interval Intersection as Array
+
+Interval Intersection as List and POJO
+
+Meeting Conflicts
+
+Merge Intervals as List and POJO
+
+Merge Intervals as Array
+
