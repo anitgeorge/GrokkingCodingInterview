@@ -56,7 +56,7 @@ Pallindromic Linked List
 Rearrange List
 
 #Intervals
-
+-----------
 Insert Intervals as Array
 
 Insert Intervals as List and POJO
@@ -70,4 +70,8 @@ Meeting Conflicts
 Merge Intervals as List and POJO
 
 Merge Intervals as Array
+
+Minimum Meeting Rooms List and POJO
+
+Minimum Meeting Rooms Arrays
 
