@@ -75,3 +75,7 @@ Minimum Meeting Rooms List and POJO
 
 Minimum Meeting Rooms Arrays
 
+Maximum CPU Load
+
+Employee Free Time
+
