@@ -1,9 +1,9 @@
 # GrokkingCodingInterview
+-------------------------
 
--Educative material storage
+Educative material storage
 
 # SlidingWindow
---------------
 
 Maximum sum subarray of size k
 
@@ -22,7 +22,6 @@ Given a string and a pattern, find the smallest substring in the given string wh
 WordConcatenation
 
 # Two Pointers
--------------
 
 PairWithTargetSum
 
@@ -41,7 +40,6 @@ Triplet With lesser sum
 Backspace String compare
 
 # Slow And Fast Pointers
-------------------------
 
 Loop in a List
 
@@ -56,7 +54,7 @@ Pallindromic Linked List
 Rearrange List
 
 # Intervals
------------
+
 Insert Intervals as Array
 
 Insert Intervals as List and POJO
