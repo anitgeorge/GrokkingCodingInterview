@@ -88,3 +88,5 @@ AllMissingNumbers
 Find Duplicate Cyclic Sort
 
 Find all duplicates
+
+Find Corrupt Pair
