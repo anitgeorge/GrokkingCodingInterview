@@ -80,3 +80,11 @@ Employee Free Time
 # Cyclic Sort
 
 Cyclic Sort
+
+Missing Number Cyclic Sort
+
+AllMissingNumbers
+
+Find Duplicate Cyclic Sort
+
+Find all duplicates
