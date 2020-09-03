@@ -1,3 +1,13 @@
+/**
+ * We are given an unsorted array containing ‘n’ numbers taken 
+ * from the range 1 to ‘n’. The array originally contained all
+ * the numbers from 1 to ‘n’, but due to a data error, one of 
+ * the numbers got duplicated which also resulted in one number
+ * going missing. Find both these numbers.
+ *
+ * @author anitgeorge
+ */
+
 class FindCorruptPair {
 
     public static int[] findNumbers(int[] nums) {
