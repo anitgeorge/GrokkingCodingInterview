@@ -90,3 +90,12 @@ Find Duplicate Cyclic Sort
 Find all duplicates
 
 Find Corrupt Pair
+
+First Missing Positive
+
+First K Missing Positives
+
+# Linked List
+
+Reverse A List
+
