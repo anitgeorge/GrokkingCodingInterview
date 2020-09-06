@@ -122,6 +122,8 @@ Level Average
 
 Minimum Depth
 
+Level Order Successor
+
 Depth First Search
 ------------------
 
