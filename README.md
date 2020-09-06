@@ -116,6 +116,10 @@ Level Order Traversal
 
 Reverse Level Order Traversal
 
+Zigzag Level Order Traversal
+
+Level Average
+
 Depth First Search
 ------------------
 
