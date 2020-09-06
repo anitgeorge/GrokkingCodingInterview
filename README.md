@@ -120,6 +120,8 @@ Zigzag Level Order Traversal
 
 Level Average
 
+Minimum Depth
+
 Depth First Search
 ------------------
 
