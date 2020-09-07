@@ -124,6 +124,14 @@ Minimum Depth
 
 Level Order Successor
 
+ConnectLevelOrderSiblings
+
+ConnectAllSiblings
+
+Right View Tree
+
+Left View Tree
+
 Depth First Search
 ------------------
 
