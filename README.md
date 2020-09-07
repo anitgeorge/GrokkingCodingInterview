@@ -145,3 +145,5 @@ Count All Path Sum
 
 Tree Diameter
 
+Maximum Path Sum
+
