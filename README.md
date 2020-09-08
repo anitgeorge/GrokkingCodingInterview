@@ -147,3 +147,17 @@ Tree Diameter
 
 Maximum Path Sum
 
+Serialize
+----------
+
+Serialize Binary Tree
+
+Serialize BST
+
+Flatten BT to Linked List
+
+Build BST from Pre Order
+
+Build BT from Pre and In
+
+Build BT from post and In
