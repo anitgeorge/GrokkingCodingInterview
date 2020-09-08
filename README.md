@@ -161,3 +161,7 @@ Build BST from Pre Order
 Build BT from Pre and In
 
 Build BT from post and In
+
+# Two Heaps
+
+Median Of Two Numbers
