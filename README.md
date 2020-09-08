@@ -167,3 +167,6 @@ Build BT from post and In
 Median Of Two Numbers
 
 Sliding Window Median
+
+Maximum Capital
+
