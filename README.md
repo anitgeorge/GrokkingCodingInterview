@@ -177,3 +177,5 @@ Next Interval
 Subsets
 
 Subsets with duplicates
+
+Permutations
