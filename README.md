@@ -170,3 +170,10 @@ Sliding Window Median
 
 Maximum Capital
 
+Next Interval
+
+# Subsets
+
+Subsets
+
+Subsets with duplicates
