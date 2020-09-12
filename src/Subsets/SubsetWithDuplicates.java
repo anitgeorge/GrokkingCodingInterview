@@ -1,3 +1,14 @@
+/**
+ *
+ * Given a set of numbers that might contain duplicates,
+ * find all of its distinct subsets.
+ *
+ * Input: [1, 3, 3]
+ * Output: [], [1], [3], [1,3], [3,3], [1,3,3]
+ *
+ * @author anitgeorge
+ */
+
 import java.util.*;
 
 public class SubsetWithDuplicates {

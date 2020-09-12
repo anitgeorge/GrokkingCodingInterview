@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4a5788d-6e59-4e9f-9fa8-fddced148ce7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CombinationSub2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CombinationSum3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvaluateExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/EvaluateExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvaluateExpressionMemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/EvaluateExpressionMemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneralizedAbbreviation.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralizedAbbreviation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateParenthesesBacktrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/GenerateParenthesesBacktrack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LetterCaseStringPermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetterCaseStringPermutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SubsetWithDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/SubsetWithDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/Subsets.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hGlRaIdP3AydbdW5nTc8ebERag" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.EvaluateExpressionMemo">
+    <configuration name="EvaluateExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvaluateExpression" />
+      <module name="Subsets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluateExpressionMemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvaluateExpressionMemo" />
+      <module name="Subsets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenerateParentheses" />
+      <module name="Subsets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateParenthesesBacktrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenerateParenthesesBacktrack" />
+      <module name="Subsets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterCaseStringPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LetterCaseStringPermutation" />
+      <module name="Subsets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EvaluateExpressionMemo" />
+        <item itemvalue="Application.EvaluateExpression" />
+        <item itemvalue="Application.LetterCaseStringPermutation" />
+        <item itemvalue="Application.GenerateParentheses" />
+        <item itemvalue="Application.GenerateParenthesesBacktrack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4a5788d-6e59-4e9f-9fa8-fddced148ce7" name="Default Changelist" comment="" />
+      <created>1599645303287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599645303287</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1316" height="179" key="GridCell.Tab.0.bottom" timestamp="1599889344995">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="179" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1599889344995" />
+    <state width="1316" height="179" key="GridCell.Tab.0.center" timestamp="1599889344994">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="179" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1599889344994" />
+    <state width="1316" height="179" key="GridCell.Tab.0.left" timestamp="1599889344994">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="179" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1599889344994" />
+    <state width="1316" height="179" key="GridCell.Tab.0.right" timestamp="1599889344995">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="179" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1599889344995" />
+  </component>
+</project>

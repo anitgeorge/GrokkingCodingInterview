@@ -1,3 +1,14 @@
+/**
+ *
+ * Given a string, find all of its permutations preserving the character
+ * sequence but changing case.
+ *
+ * Input: "ad52"
+ * Output: "ad52", "Ad52", "aD52", "AD52"
+ *
+ * @author anitgeorge
+ */
+
 import java.util.*;
 
 class LetterCaseStringPermutation {

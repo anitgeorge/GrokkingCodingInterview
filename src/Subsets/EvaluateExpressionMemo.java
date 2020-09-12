@@ -1,6 +1,17 @@
 import java.security.cert.CertPathValidatorException;
 import java.util.*;
-
+/**
+ *
+ * Given an expression containing digits and operations (+, -, *),
+ * find all possible ways in which the expression can be evaluated
+ * by grouping the numbers and operators using parentheses.
+ *
+ * Input: "1+2*3"
+ * Output: 7, 9
+ * Explanation: 1+(2*3) => 7 and (1+2)*3 => 9
+ *
+ * @author anitgeorge
+ */
 public class EvaluateExpressionMemo {
 
     Map<String, List<Integer>> cache = new HashMap<String, List<Integer>>();

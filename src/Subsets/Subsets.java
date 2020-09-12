@@ -1,3 +1,13 @@
+/**
+ *
+ * Given a set with distinct elements, find all of its distinct subsets.
+ *
+ * Input: [1, 3]
+ * Output: [], [1], [3], [1,3]
+ *
+ * @author anitgeorge
+ */
+
 import java.util.*;
 
 class Subsets {
