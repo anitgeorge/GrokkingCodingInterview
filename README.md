@@ -179,3 +179,11 @@ Subsets
 Subsets with duplicates
 
 Permutations
+
+Letter case permutation
+
+Generate Parenthesis
+
+Generalized Abbreviation
+
+Evaluate Expression
