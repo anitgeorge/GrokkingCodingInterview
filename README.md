@@ -197,3 +197,5 @@ Count Unique BSTs
 # Binary Search
 
 Order-agnostic Binary Search
+
+Ceiling of a number
