@@ -193,3 +193,7 @@ Combination Sum
 Count Unique Binary Search Trees
 
 Count Unique BSTs
+
+# Binary Search
+
+Order-agnostic Binary Search
