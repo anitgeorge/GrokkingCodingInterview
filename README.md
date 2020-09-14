@@ -207,3 +207,11 @@ Minimum Difference
 Next Letter
 
 Seach In Infinite Sorted Array
+
+Maximum in a bitonic array
+
+Search in a bitonic array
+
+Search in a rotated array
+
+Rotation count in sorted array
