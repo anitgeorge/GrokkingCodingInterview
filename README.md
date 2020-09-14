@@ -199,3 +199,11 @@ Count Unique BSTs
 Order-agnostic Binary Search
 
 Ceiling of a number
+
+Find Range
+
+Minimum Difference
+
+Next Letter
+
+Seach In Infinite Sorted Array
