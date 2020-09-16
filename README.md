@@ -215,3 +215,9 @@ Search in a bitonic array
 Search in a rotated array
 
 Rotation count in sorted array
+
+# XOR
+
+Missing Number
+
+Single Number
