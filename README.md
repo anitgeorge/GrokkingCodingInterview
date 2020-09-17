@@ -229,3 +229,7 @@ Two Single Numbers
 # K Top Elemenets
 
 K large numbers
+
+Kth smallest Number
+
+K closest points to Origin
