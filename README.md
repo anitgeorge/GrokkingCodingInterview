@@ -233,3 +233,9 @@ K large numbers
 Kth smallest Number
 
 K closest points to Origin
+
+Connecting Ropes
+
+Top K Frequent Numbers
+
+Kth Largest Number in a stream
