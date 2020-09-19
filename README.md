@@ -239,3 +239,9 @@ Connecting Ropes
 Top K Frequent Numbers
 
 Kth Largest Number in a stream
+
+K Closest Elements
+
+Maximum Distinct Elements
+
+Sum Of Elements
