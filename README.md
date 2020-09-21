@@ -247,3 +247,5 @@ Maximum Distinct Elements
 Sum Of Elements
 
 Rearrange Strings
+
+Rearrange Strings K distance apart
