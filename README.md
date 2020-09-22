@@ -253,3 +253,5 @@ Rearrange Strings K distance apart
 # K way merge
 
 Merge K sorted Lists
+
+Kth Smallest is a list of sorted arrays
