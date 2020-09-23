@@ -257,3 +257,5 @@ Merge K sorted Lists
 Kth Smallest is a list of sorted arrays
 
 Kth Smallest in a sorted Matrix
+
+Smallest Range
