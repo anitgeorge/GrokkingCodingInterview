@@ -273,3 +273,7 @@ Task Scheduling order
 All Task Scheduling Orders
 
 Alien Dictionary
+
+Sequence Reconstruction
+
+Minimum Height Tree
