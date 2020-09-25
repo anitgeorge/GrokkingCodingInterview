@@ -281,3 +281,7 @@ Minimum Height Tree
 # Knapsack
 
 Partition Set
+
+Target Sum
+
+Subset Sum
