@@ -277,3 +277,7 @@ Alien Dictionary
 Sequence Reconstruction
 
 Minimum Height Tree
+
+# Knapsack
+
+Partition Set
