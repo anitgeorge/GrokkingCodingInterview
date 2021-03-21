@@ -19,7 +19,7 @@ class MinimumMeetingRoomsArray{
         for(int i = 1; i < meetings.length; i++){
 
             int[] curr = pq.poll();
-            if(curr[1] >= meetings[i][0]){
+            if(curr[1] <= meetings[i][0]){
                 curr[1] = meetings[i][1];
                 pq.offer(curr);
             } else{
